@@ -1,5 +1,9 @@
 DigiBit release notes:
 
+4 May 2015 0.1.2
++ enable sending to PS2H address again. This will allow Digibit users to send to DGBWallet.com
++ Updated Checkpoints
+
 30 Jan 2014 0.1.1
 + Disallow sending to PS2H address. Added an error message to ensure user cannot send funds to an multisig address.
 
